@@ -1,0 +1,17 @@
+.area1 {
+  background-color: blue;
+  height: 600px;
+  width: 100%;
+}
+
+.area2 {
+  height: 400px;
+  background-color: red;
+  width: 100%;
+}
+
+.area3 {
+  height: 800px;
+  background-color: green;
+  width: 100%;
+}
